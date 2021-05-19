@@ -1,2 +1,2 @@
 # git_course
-just give shot
+just give a shot
